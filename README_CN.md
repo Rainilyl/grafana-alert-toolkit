@@ -1,4 +1,4 @@
-# 🚀 Grafana 告警工具包
+# 🚀 Grafana 告警工具
 
 一个基于 Web 的工具，可快速生成 Grafana 告警规则（YAML）和通知模板（Go Template），支持实时预览。
 
