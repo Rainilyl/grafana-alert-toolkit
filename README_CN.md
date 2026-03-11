@@ -38,7 +38,7 @@
 1. 克隆项目到本地：
 
    ```bash
-   git clone <your_repo_url>
+   git clone <repo_url>
    cd grafana-alert-toolkit
    ```
 
