@@ -25,24 +25,38 @@
 
 ---
 
-## ⚙️ 安装与运行
+## ⚙️ 快速开始
 
-1. 克隆项目：
+### 环境要求
+
+- Python 3.7 或更高版本
+- pip 包管理工具
+
+### 安装步骤
+
+1. 克隆项目到本地：
 
 ```bash
 git clone <your_repo_url>
 cd grafana-alert-toolkit
+```
+
+2. 安装依赖：
+
+```bash
 pip install -r requirements.txt
-启动应用：
+```
 
+3. 启动应用：
+
+```bash
 streamlit run app.py
+```
 
-浏览器访问：
+4. 打开浏览器访问：
 
+```
 http://localhost:8501
+```
 
-📝 注意事项
-
-插入变量功能可以快速添加 Grafana 模板变量，但预览显示原始模板。
-
-生成的 YAML 和模板文件可直接导入 Grafana。
+---
