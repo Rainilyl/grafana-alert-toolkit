@@ -3,9 +3,22 @@
 一个基于 Web 的工具，可快速生成 Grafana 告警规则（YAML）和通知模板（Go Template），支持实时预览。
 
 <p align="center">
-  <img src="images/grafana-alert-toolkit-1.png" alt="告警规则生成器" width="30%">
-  <img src="images/grafana-alert-toolkit-2.png" alt="通知模板生成器" width="30%">
-  <img src="images/grafana-alert-toolkit-3.png" alt="告警预览" width="30%">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/grafana-alert-toolkit-1.png" alt="告警规则生成器" width="80%"><br>
+        <strong>📊 告警规则生成器</strong>
+      </td>
+      <td align="center">
+        <img src="images/grafana-alert-toolkit-2.png" alt="通知模板生成器" width="80%"><br>
+        <strong>💬 通知模板生成器</strong>
+      </td>
+      <td align="center">
+        <img src="images/grafana-alert-toolkit-3.png" alt="告警预览" width="80%"><br>
+        <strong>🔍 告警预览</strong>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
