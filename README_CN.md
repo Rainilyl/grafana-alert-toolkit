@@ -2,24 +2,28 @@
 
 一个基于 Web 的工具，可快速生成 Grafana 告警规则（YAML）和通知模板（Go Template），支持实时预览。
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="images/grafana-alert-toolkit-1.png" alt="告警规则生成器" width="80%"><br>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+    <div style="display: flex; flex-direction: column; align-items: center; width: 30%;">
+      <img src="images/grafana-alert-toolkit-1.png" alt="告警规则生成器" style="width: 100%; max-width: 300px;">
+      <div style="margin-top: 10px;">
         <strong>📊 告警规则生成器</strong>
-      </td>
-      <td align="center">
-        <img src="images/grafana-alert-toolkit-2.png" alt="通知模板生成器" width="80%"><br>
+      </div>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: 30%;">
+      <img src="images/grafana-alert-toolkit-2.png" alt="通知模板生成器" style="width: 100%; max-width: 300px;">
+      <div style="margin-top: 25px;">
         <strong>💬 通知模板生成器</strong>
-      </td>
-      <td align="center">
-        <img src="images/grafana-alert-toolkit-3.png" alt="告警预览" width="80%"><br>
+      </div>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: 30%;">
+      <img src="images/grafana-alert-toolkit-3.png" alt="告警预览" style="width: 100%; max-width: 300px;">
+      <div style="margin-top: 10px;">
         <strong>🔍 告警预览</strong>
-      </td>
-    </tr>
-  </table>
-</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
